@@ -135,7 +135,7 @@ GND*                         : 69        :        :                   :         
 GND*                         : 70        :        :                   :         : 2         :                
 GND*                         : 71        :        :                   :         : 2         :                
 GND*                         : 72        :        :                   :         : 2         :                
-GND*                         : 73        :        :                   :         : 2         :                
+RMUTE                        : 73        : output : 3.3-V LVTTL       :         : 2         : Y              
 ENCLK_24M                    : 74        : output : 3.3-V LVTTL       :         : 2         : Y              
 CLK_24M                      : 75        : input  : 3.3-V LVTTL       :         : 2         : Y              
 PHA                          : 76        : input  : 3.3-V LVTTL       :         : 2         : Y              
@@ -161,5 +161,5 @@ GND*                         : 95        :        :                   :         
 GND*                         : 96        :        :                   :         : 2         :                
 GND*                         : 97        :        :                   :         : 2         :                
 RESET                        : 98        : input  : 3.3-V LVTTL       :         : 2         : Y              
-GND*                         : 99        :        :                   :         : 2         :                
+MUTE_IN                      : 99        : input  : 3.3-V LVTTL       :         : 2         : Y              
 MCLK                         : 100       : output : 3.3-V LVTTL       :         : 2         : Y              
